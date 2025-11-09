@@ -1,0 +1,4 @@
+`git status`
+
+Used to check the sattus of the repo on the local machine.
+Whether there is any Untracked file, Modified file, or any kind of error in saving the history of the changes in the repo.

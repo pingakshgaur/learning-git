@@ -1,0 +1,4 @@
+`gti add <--file name-->`
+
+Used to add the Newly made files in the repo on Git's radar.
+Git then starts to track that new file too, as before it didnt know about the file's existance.

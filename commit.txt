@@ -1,0 +1,5 @@
+`git commit -m "message for the commit"`
+
+This command is used to take a snapshot of your project's tracked files at a specific point in time.
+It effectively saves the current state of your staged changes into the repository's history.
+Its done because if we ever want to revert to the previous state of the code due to some problem/bug/error, so we fallback to older commits.

@@ -1,0 +1,3 @@
+`git push origin <--branch name (main)-->`
+
+This command allows us to upload the commits in our github repo and pushing the newly made files & modifications onto the repo that we had staged and commited earlier.

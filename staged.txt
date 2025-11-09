@@ -1,0 +1,2 @@
+Adding the files in the Git's radar, so it could be tracked by Git is called "Staged a file".
+There is no command for this, its the term to callout those files which have been added by the `git add <--file name-->` command.
