@@ -1,0 +1,7 @@
+`git branch`
+
+Tells us the name of the repo's branch in which our directory is opened and connected with.
+
+`git branch -M <--new name-->`
+
+This command helps us rename our branch's old name to a newer one.
