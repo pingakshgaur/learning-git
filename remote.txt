@@ -1,0 +1,5 @@
+`git remote add origin <--link to repo-->`
+`git remote -v`
+
+First command connects our directory in the local machine to the empty repo thats created on Github
+Second command helps us verify the target repo of the directory and check if it was connected successfuly to the repo
