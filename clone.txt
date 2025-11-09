@@ -1,0 +1,4 @@
+`git clone <--link-->`
+
+Creates a clone of the GitHub repo in your system's editor.
+Helps to edit and manage the files from a single workspace.
